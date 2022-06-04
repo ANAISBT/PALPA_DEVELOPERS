@@ -1,2 +1,36 @@
-Plan de gstion de configuracion 
-añadido extra
+Gestión de la Configuración del Software
+
+Guía practica #2
+
+Grupo No.:
+
+Integrantes: 
+Bustamante Torres, Anais Milagros
+  
+
+PLAN DE GESTION DE LA CONFIGURACION
+
+Grupo:
+
+
+PALPA DEVELOPERS
+
+
+Versión 1.0
+
+
+Introducción
+
+[Situación de la empresa, Propósito del plan]
+
+Gestión de la SCM
+
+ROLES Y RESPONSABILIDADES
+Anais Bustamante Torres:	Jefe de Proyecto (JP)
+Yordy Benites Leiva:	Analista de Software (AS)
+David Morillo Acuña:	Desarrollo de Software(DS)
+Josué Montes Perez:	Desarrollo de Software(DS)
+Piero Paguada Tavares:	Desarrollo de Software(DS)
+
+Herramientas (Benchmarking)
+Diagrama de arquitectura de la herramienta elegida
