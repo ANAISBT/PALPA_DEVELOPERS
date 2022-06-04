@@ -21,7 +21,9 @@ Versión 1.0
 
 Introducción
 
-[Situación de la empresa, Propósito del plan]
+Situacion de la empresa:
+Ante el incremento nacional de los robos y 
+Propósito del plan:
 
 Gestión de la SCM
 
