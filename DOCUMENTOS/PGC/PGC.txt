@@ -22,8 +22,13 @@ Versión 1.0
 Introducción
 
 Situacion de la empresa:
-Ante el incremento nacional de los robos y 
+Ante el incremento nacional de los robos y secuestros al paso de personas, existe un miedo en la poblacion ante estas amenazas; ya que el gobierno no les
+da la seguridad que necesitan en las calles.
+
 Propósito del plan:
+Ante esta problematica nuestro equipo plantea una aplicación movil que haga más fácil y práctica el aviso de peligro. Teniendo contactos de seguridad y la opción de
+compartir ubicacion para mayor seguridad. Asimismo, se podrá hacer grabación de audio usando el microfono del celular. Todo esto para que asi sea más seguro vivir en
+nuestro pais.
 
 Gestión de la SCM
 
